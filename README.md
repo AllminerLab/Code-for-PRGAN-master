@@ -9,7 +9,7 @@ We use Pytorch as the backend.
 - cudnn version: '7.6.5'
 
 ### Dataset
-We provide all four processed datasets: MovieLens 1 Million (ml-1m), LastFm (lastfm), Yelp and Pinterest. 
+We provide all four processed datasets: MovieLens 1 Million (ml-1m), LastFm (lastfm) and Yelp. 
 
 1.**traindata.csv**
 - Train file.
